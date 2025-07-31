@@ -1,0 +1,7 @@
+{
+  "keyboard_name": "Scylla",
+  "manufacturer": "Handwired",
+  "usb": {
+      "vid": "0xA8F8"
+  }
+}
